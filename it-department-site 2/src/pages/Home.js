@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, Users, BookOpen, Award, TrendingUp, Code, Database, Shield, Cpu } from 'lucide-react';
+import { ArrowRight, BookOpen, Award, TrendingUp, Code, Database, Shield, Cpu } from 'lucide-react';
 import './Home.css';
 import { Users, Award, TrendingUp } from 'lucide-react';
 
